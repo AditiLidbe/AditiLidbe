@@ -9,6 +9,6 @@ I’m passionate about diving deep into **IoT, Machine Learning, and Cloud** —
 - Building projects that bridge **innovation & impact**
 
 **Let’s Connect**  
-- [LinkedIn](https://www.linkedin.com/in/aditi-lidbe-288256257/))  
+- [LinkedIn](https://www.linkedin.com/in/aditi-lidbe-288256257/)
 - [GitHub](https://github.com/AditiLidbe)
 
