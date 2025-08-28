@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Aditi  
 
-<!--
-**AditiLidbe/AditiLidbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Curious Explorer of Tech**  
+I’m passionate about diving deep into **IoT, Machine Learning, and Cloud** — always experimenting, learning, and building.  
 
-Here are some ideas to get you started:
+**What I’m up to**  
+- Exploring **IoT + Cloud** integration  
+- Practicing **Machine Learning & Data Science**  
+- Building projects that bridge **innovation & impact**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let’s Connect**  
+- [LinkedIn]( linkedin.com/in/aditi-lidbe-288256257 )  
+- [GitHub]( github.com/AditiLidbe)
+
+### GitHub Stats  
+
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://git.io/streak-stats) 
